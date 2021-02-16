@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\roger\Desktop\Harvard CS 50 2021\Specification2\Specification2\main.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+  Specification2.vcxproj -> C:\Users\roger\Desktop\Harvard CS 50 2021\Specification2\Debug\Specification2.exe
